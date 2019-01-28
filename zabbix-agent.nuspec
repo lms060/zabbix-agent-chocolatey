@@ -2,8 +2,8 @@
 <!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>zabbix-agent</id>
-    <title>Zabbix Agent</title>    
+    <id>zabbix-agent-fxbrs</id>
+    <title>Zabbix Agent FXBRS</title>    
     <version>4.0.0</version>
     <authors>Zabbix LLC</authors>
     <owners>Gene Liverman</owners>
